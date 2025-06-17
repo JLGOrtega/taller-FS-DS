@@ -63,10 +63,10 @@ Aquí tienes algunos recursos que te serán de gran ayuda durante el taller:
 *   **Documentación de GCP:** [https://cloud.google.com/docs](https://cloud.google.com/docs)
 *   **Bases de Datos en GCP (Cloud SQL):** [https://cloud.google.com/sql/docs](https://cloud.google.com/sql/docs)
 
-### 4.3. Desarrollo Full Stack (Python/Flask/FastAPI)
+### 4.3. Desarrollo Full Stack 
 
-*   **Flask Documentation:** [https://flask.palletsprojects.com/](https://flask.palletsprojects.com/)
-*   **FastAPI Documentation:** [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)
+*   **SEQUELIZE:** [sequelize])(https://sequelize.org/)
+*   **Node:** [node](https://nodejs.org/es)
 *   **Swagger UI:** [https://swagger.io/tools/swagger-ui/](https://swagger.io/tools/swagger-ui/)
 
 ### 4.4. Visualización de Datos (Streamlit)
